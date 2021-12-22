@@ -3,7 +3,7 @@
 
 I'm a data analyst who is passionate about visualizing relationships, predicting results, and framing stories around Big Data based out of Birmingham, AL. I enjoy working in Python with data as it is a powerful catalyst when properly and thoroughly organized and analyzed. 
 
-I am currently working for McLeod Software and delivering reporting services for internal stakeholders. 
+I am currently working for McLeod Software and delivering high impact reporting services and data analysis for internal stakeholders. 
 
 
 ### You Can Reach Me Here :globe_with_meridians::
