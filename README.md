@@ -1,4 +1,4 @@
-# Hi, I'm Warren
+# Hi, I'm Warren :wave:
 
 
 I'm a data analyst who is passionate about visualizing relationships, predicting results, and framing stories around Big Data based out of Birmingham, AL. I enjoy working in Python with data as it is a powerful catalyst when properly and thoroughly organized and analyzed. 
@@ -27,4 +27,4 @@ I am currently working for McLeod Software and delivering reporting services for
 2. Big Memphis Grizzlies Fan :bear:
 3. Water Polo Player :water_polo: and Swimmer :swimming_man:
 4. Guitar and Bass Player :guitar:
-5. Bombastic Rocket League and Rockband Player
+5. Bombastic Rocket League and Rockband Player :metal:
