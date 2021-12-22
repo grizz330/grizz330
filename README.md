@@ -1,10 +1,3 @@
-### Here is What I'm Working On!
-
-
-- 👋 Hi, I’m @grizz330
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="alt text" width="20" height="20"> Check out my Linkedin [here](https://www.linkedin.com/in/warren-spann/)
 
